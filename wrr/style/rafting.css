@@ -17,11 +17,13 @@ header, footer {
     text-align: center;
     padding: 1rem 0;
 }
+
 header img {
-width: 250px;
-height: 100px;
-margin-right: 1000px; ;
+    width: 250px;
+    height: 100px;
+    margin-right: 1000px;
 }
+
 nav a {
     color: white;
     text-decoration: none;
@@ -73,7 +75,7 @@ footer a img {
 }
 
 section img {
-    width: 30%; /
-    height: 100px; /
-    object-fit: cover; 
+    width: 30%;
+    height: 100px;
+    object-fit: cover;
 }
